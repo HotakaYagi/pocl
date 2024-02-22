@@ -110,6 +110,7 @@ recommendations on build settings for packaged builds.
 
 PoCL with CPU device support can be found on many linux distribution managers.
 See [![latest packaged version(s)](https://repology.org/badge/latest-versions/pocl.svg)](https://repology.org/project/pocl/versions)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FHotakaYagi%2Fpocl.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FHotakaYagi%2Fpocl?ref=badge_shield)
 
 ### PoCL with CUDA driver
 
@@ -164,3 +165,6 @@ visible, do
 PoCL is distributed under the terms of the MIT license. Contributions are expected
 to be made with the same terms.
 
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FHotakaYagi%2Fpocl.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FHotakaYagi%2Fpocl?ref=badge_large)
